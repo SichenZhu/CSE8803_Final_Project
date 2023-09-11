@@ -12,6 +12,6 @@ BRACS Dataset: <https://www.bracs.icar.cnr.it/>
 Cell graph generation: cell_graph.ipynb
 
 File name explanation: 
-⋅⋅⋅ File starts with the name of the neural network, such as CNN, GAT, GCN, GNN, GraphSAGE.
-⋅⋅⋅ Binary vs. 7classes: classification tasks with binary classes (normal vs. tumor) or seven categories of tumors.
-⋅⋅⋅ Edge weight: add edge features to cell graph.
+- File starts with the name of the neural network, such as CNN, GAT, GCN, GNN, GraphSAGE.
+- Binary vs. 7classes: classification tasks with binary classes (normal vs. tumor) or seven categories of tumors.
+- Edge weight: add edge features to cell graph.
