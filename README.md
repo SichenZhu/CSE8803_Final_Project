@@ -1,5 +1,4 @@
-# CSE8803_Final_Project
-### Pic2Graph: Graph-based Image Classification of Breast Carcinoma Subtypes
+## Pic2Graph: Graph-based Image Classification of Breast Carcinoma Subtypes
 
 A project that: 
 * Converted H&E stained histology images to cell graphs via residual network.9
